@@ -1,0 +1,23 @@
+{
+  "name": "data-path-finder",
+  "version": "0.0.1",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Jose A. Nunez and Jerome D. Yackley",
+  "contributors": [
+    "Jose Nunez",
+    "Jerome D. Yackley"
+  ],
+  "dependencies": {},
+  "description": "Library and CLI tool to find properties of a JSON data structure using datapath string ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}

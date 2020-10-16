@@ -1,0 +1,40 @@
+{
+  "property1": "value1",
+  "property2": "value2",
+  "property3": {
+    "property31": "value31",
+    "property32": [
+      {
+        "property321": "value321",
+        "property322": "value322",
+        "property333": ["333-1", "333-2", "333-3"],
+        "property444": [
+          {"id":"40A","name":"N40A"},
+          {"id":"40B","name":"N40B"},
+          {"id":"40C","name":"N40C"}
+        ]
+      },
+      {
+        "property321": "value321B",
+        "property322": "value322B",
+        "property333": ["333-1B", "333-2B", "333-3B"],
+        "property444": [
+          {"id":"40A1","name":"N40A1"},
+          {"id":"40B1","name":"N40B1"},
+          {"id":"40C1","name":"N40C1"}
+        ]        
+      },
+      {
+        "property321": "value321C",
+        "property322": "value322C",
+        "property333": ["333-1C", "333-2C", "333-3C"],
+        "property444": [
+          {"id":"40A2","name":"N40A2"},
+          {"id":"40B2","name":"N40B2"},
+          {"id":"40C2","name":"N40C2"}
+        ]   
+      }
+    ]
+  },
+  "property4": ["str1", "str2", "str3"]
+}

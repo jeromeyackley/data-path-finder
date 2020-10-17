@@ -1,0 +1,18 @@
+{
+  "userName":"Jose",
+  "address": "San Pablo de Heredia",
+  "favoriteCars": [ 
+    {
+      "make":"Nissan",
+      "model":"versa"
+    },
+    {
+      "make":"Toyota",
+      "model":"Rav4"
+    },
+    {
+      "make":"Hyundai",
+      "model":"Santa Fe"
+    }
+  ]
+}

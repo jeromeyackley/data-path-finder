@@ -33,3 +33,8 @@ The data-path specification `"userName"` points to the value "Jose", while the d
 # Uses of this library
 Known uses for data-path expressions implemented in this library include data transformation, mapping and verification out of dynamic rules specified in text. For example for comparing two objects of different structure that may have common attributes.
 
+# Example using the cli.js file
+1. In an empty directory, run `npm install data-path-finder`
+2. Then run `cd node_modules/data-path-finder/src`
+3. Then run `node cli.js "../es_samples/favoriteCars.json" "favoriteCars[].make"
+4. The command should display a result of `["Nissan","Toyota","Hyundai"]`

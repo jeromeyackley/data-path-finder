@@ -36,5 +36,5 @@ Known uses for data-path expressions implemented in this library include data tr
 # Example using the cli.js file
 1. In an empty directory, run `npm install data-path-finder`
 2. Then run `cd node_modules/data-path-finder/src`
-3. Then run `node cli.js "../es_samples/favoriteCars.json" "favoriteCars[].make"
+3. Then run `node cli.js "../es_samples/favorite_cars.json" "favoriteCars[].make"
 4. The command should display a result of `["Nissan","Toyota","Hyundai"]`
